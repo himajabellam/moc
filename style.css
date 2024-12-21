@@ -1,0 +1,21 @@
+#gallery{
+  text-align: center;
+  margin: 20px;
+  background-color: lavender;
+}
+
+#imageContainer{
+  margin-top: 20px;
+  /* display: flex; */
+}
+
+img{
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+} 
+
+button{
+  background-color: rgb(222, 211, 211);
+  
+}
